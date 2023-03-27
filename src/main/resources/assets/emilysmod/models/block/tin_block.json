@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "emilysmod:block/tin_block"
+  }
+}

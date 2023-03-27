@@ -1,0 +1,11 @@
+{
+  "item.emilysmod.raw_tin": "Raw Tin",
+  "item.emilysmod.tin_ingot": "Tin Ingot",
+  "item.emilysmod.glow_goggles": "Glow Goggles",
+
+  "block.emilysmod.tin_block": "Tin Block",
+  "block.emilysmod.tin_ore": "Tin Ore",
+  "block.emilysmod.deepslate_tin_ore": "Deepslate Tin Ore",
+
+  "itemgroup.emilysmod": "Emily's Mod"
+}
